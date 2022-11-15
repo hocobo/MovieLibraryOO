@@ -3,12 +3,12 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using MovieLibraryEntities.Context;
 using MovieLibraryEntities.Dao;
-using MovieLibraryOO.Dao;
-using MovieLibraryOO.Mappers;
-using MovieLibraryOO.Services;
+using MovieDatabaseApplication_A11.Dao;
+using MovieDatabaseApplication_A11.Mappers;
+using MovieDatabaseApplication_A11.Services;
 using Spectre.Console;
 
-namespace MovieLibraryOO;
+namespace MovieDatabaseApplication_A11;
 
 /// <summary>
 ///     Used for registration of new interfaces

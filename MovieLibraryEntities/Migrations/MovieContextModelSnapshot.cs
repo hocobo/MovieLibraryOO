@@ -8,7 +8,7 @@ using MovieLibraryEntities.Context;
 
 #nullable disable
 
-namespace MovieLibraryOO.Migrations
+namespace MovieDatabaseApplication_A11.Migrations
 {
     [DbContext(typeof(MovieContext))]
     partial class MovieContextModelSnapshot : ModelSnapshot

@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace MovieLibraryOO.Migrations
+namespace MovieDatabaseApplication_A11.Migrations
 {
     public partial class InsertRatings3 : Migration
     {

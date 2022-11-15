@@ -1,4 +1,4 @@
-﻿namespace MovieLibraryOO.Dao;
+﻿namespace MovieDatabaseApplication_A11.Dao;
 
 /// <summary>
 ///     This service interface only exists an example.

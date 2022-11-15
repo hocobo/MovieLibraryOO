@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using MovieLibraryEntities.Context;
 using MovieLibraryEntities.Models;
 
-namespace MovieLibraryOO.Migrations
+namespace MovieDatabaseApplication_A11.Migrations
 {
     [DbContext(typeof(MovieContext))]
     [Migration("20210325025319_InsertRatings2")]

@@ -1,7 +1,7 @@
 ﻿using System;
 using Spectre.Console;
 
-namespace MovieLibraryOO
+namespace MovieDatabaseApplication_A11
 {
     // This is just a fun implementation of Spectre.Console to present more interesting menus
     // Feel free to use it and read more at https://spectreconsole.net if you would like

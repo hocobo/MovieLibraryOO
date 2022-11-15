@@ -4,7 +4,7 @@ using System.IO;
 using System.Linq;
 using Microsoft.Extensions.Logging;
 
-namespace MovieLibraryOO.Dao;
+namespace MovieDatabaseApplication_A11.Dao;
 
 /// <summary>
 ///     This concrete service and method only exists an example.

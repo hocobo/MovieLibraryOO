@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MovieLibraryOO.Dto
+namespace MovieDatabaseApplication_A11.Dto
 {
     public class MovieDto
     {

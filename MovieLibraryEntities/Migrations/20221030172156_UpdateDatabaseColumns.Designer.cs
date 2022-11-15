@@ -9,7 +9,7 @@ using MovieLibraryEntities.Context;
 
 #nullable disable
 
-namespace MovieLibraryOO.Migrations
+namespace MovieDatabaseApplication_A11.Migrations
 {
     [DbContext(typeof(MovieContext))]
     [Migration("20221030172156_UpdateDatabaseColumns")]

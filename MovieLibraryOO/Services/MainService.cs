@@ -1,12 +1,12 @@
 ﻿using ConsoleTables;
 using Microsoft.Extensions.Logging;
 using MovieLibraryEntities.Dao;
-using MovieLibraryOO.Dao;
-using MovieLibraryOO.Dto;
-using MovieLibraryOO.Mappers;
+using MovieDatabaseApplication_A11.Dao;
+using MovieDatabaseApplication_A11.Dto;
+using MovieDatabaseApplication_A11.Mappers;
 using System;
 
-namespace MovieLibraryOO.Services
+namespace MovieDatabaseApplication_A11.Services
 {
     public class MainService : IMainService
     {

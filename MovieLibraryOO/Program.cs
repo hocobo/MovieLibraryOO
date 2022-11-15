@@ -1,8 +1,8 @@
 ﻿using System;
 using Microsoft.Extensions.DependencyInjection;
-using MovieLibraryOO.Services;
+using MovieDatabaseApplication_A11.Services;
 
-namespace MovieLibraryOO
+namespace MovieDatabaseApplication_A11
 {
     internal class Program
     {

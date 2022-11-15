@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using MovieLibraryEntities.Context;
 
-namespace MovieLibraryOO.Migrations
+namespace MovieDatabaseApplication_A11.Migrations
 {
     [DbContext(typeof(MovieContext))]
     [Migration("20210325020522_InsertOccupations")]

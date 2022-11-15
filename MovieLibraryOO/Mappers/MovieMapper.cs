@@ -1,9 +1,9 @@
 ﻿using AutoMapper;
 using MovieLibraryEntities.Models;
-using MovieLibraryOO.Dto;
+using MovieDatabaseApplication_A11.Dto;
 using System.Collections.Generic;
 
-namespace MovieLibraryOO.Mappers
+namespace MovieDatabaseApplication_A11.Mappers
 {
     public class MovieMapper : IMovieMapper
     {
